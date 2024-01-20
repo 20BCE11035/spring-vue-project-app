@@ -1,0 +1,29 @@
+build/
+!.mvn/wrapper/maven-wrapper.jar
+/node_modules
+/.gradle/
+/out/
+/classes/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+node_modules/
